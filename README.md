@@ -62,7 +62,6 @@ The Course Rec Assistant employs a **Hybrid Grounded RAG (Retrieval-Augmented Ge
 ### 🎨 2. Interface Design Strategy
 Designed as a **Counselor Copilot Interface** tailored for study abroad advisors during live client consultations:
 - **Dual-Pane Workstation Layout**: Keeps student profile input on the left and live recommendation streams on the right.
-- **Dockable Side-Panel Mode**: Features a responsive `380px` Dock Mode toggle allowing counselors to dock the assistant alongside video calls (Google Meet/Zoom) during live counseling sessions.
 - **Interactive Assumption Pills**: Displays critical assumptions (e.g. Budget caps, min IELTS) at the top of the interface with click-to-edit inline modals for instantaneous profile adjustments.
 
 ---
