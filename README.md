@@ -7,8 +7,7 @@
 ## 📽️ Video Walkthrough
 
 > **Watch the product demonstration and technical overview:**  
-> [![Video Walkthrough Placeholder](https://img.shields.io/badge/Video%20Walkthrough-Watch%20Demo-blue?style=for-the-badge&logo=youtube)](https://github.com)  
-> *(Insert video link / embed code here for project submission)*
+https://drive.google.com/drive/folders/1J1-vYxWOWmHoGPJ3oWGHDcJ_GSUTITwP?usp=sharing
 
 ---
 
